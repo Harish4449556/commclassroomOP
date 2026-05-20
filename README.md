@@ -1,3 +1,5 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+- kunal Kushwaha says that this community is amazing..
+- Ram made this changes.
+
